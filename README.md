@@ -48,5 +48,6 @@ Cuentas recomendadas:\
 
 [R function a day](https://twitter.com/rfunctionaday)\
 [Hadley Wickham](https://twitter.com/hadleywickham)\
-[Cassie Kozyrkov](https://twitter.com/quaesita)
+[Cassie Kozyrkov](https://twitter.com/quaesita)\
+[Su autor](https://twitter.com/BryanStevOC)
 
