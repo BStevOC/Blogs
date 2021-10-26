@@ -42,9 +42,9 @@ Cometer errores es muy común. Apoyarse en documentación, foros y google es par
 
 # 8. Sé parte de la comunidad
 
-Usa twitter para conectar con líderes en estadística y ciencia de datos.\
+Usa twitter para conectar con líderes en estadística y ciencia de datos.
 
-Cuentas recomendadas:\
+Cuentas recomendadas:
 
 [R function a day](https://twitter.com/rfunctionaday)\
 [Hadley Wickham](https://twitter.com/hadleywickham)\
