@@ -1,9 +1,4 @@
----
 
-output: 
-  html_document:
-    keep_md: TRUE
----
 
 # 1. Aprender haciendolo
 
