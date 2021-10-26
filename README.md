@@ -4,6 +4,7 @@
 
 * Kaggle
 * Libros
+* Articulos
 * Tutoriales
 
 # 2. Familiarizate analizando bases de datos
