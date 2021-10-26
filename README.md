@@ -21,7 +21,7 @@
 
 # 4. Utiliza la documentación, stackoverflow y google
 
-Cometer errores es muy común. Apoyarse en documentación, foros y google es parte del flujo de trabajo.\
+Cometer errores es muy común. Apoyarse en documentación, foros y google es parte del flujo de trabajo.
 
 [stackoverflow](https://stackoverflow.com/)
 
