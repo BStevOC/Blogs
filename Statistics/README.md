@@ -1,5 +1,3 @@
-
-
 # 1. Aprender haciendolo
 
 * Kaggle
