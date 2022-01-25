@@ -1,44 +1,35 @@
-# 1. Aprender haciendolo
+# 8 consejos para estudiantes de estadística
 
-* Kaggle
-* Libros
-* Articulos
-* Tutoriales
+## 1. Aprender haciendolo
 
-# 2. Familiarizate analizando bases de datos
+Una manera muy útil de aprender es haciendo proyectos. Puedes aprender haciendo proyectos en kaggle y aprender resolviendo ejercicios en DataCamp.
+Además, puedes aprender leyendo libros, artículos y viendo tutoriales.
 
-[R for data science](https://r4ds.had.co.nz/)\
-[Python for data analysis](https://wesmckinney.com/pages/book.html)
+## 2. Familiarizate analizando bases de datos
 
-# 3. Domina al menos un lenguaje de programación
+Siendo el análisis de datos una parte fundamental del trabajo de un estadístico, es importante aprender a usar las herramientas para poder analizar los datos. Para esto, sería muy útil aprender SQL, así como Python o R. Así como Excel, Access, Power BI o Tableau.
 
-1. Tidyverse y pandas
-2. [Rstudio](https://www.rstudio.com/) y [Anaconda](https://www.anaconda.com/)
-3. Rmarkdown y jupyter
-4. [Shiny](https://mastering-shiny.org/) y dash
+## 3. Domina al menos un lenguaje de programación
 
-# 4. Utiliza la documentación, stackoverflow y google
+Para tener mayor versatilidad y flexibilidad durante cualquier actividad en el manejo de datos, vale mucho la pena el aprender a programar. Programar a comparación de excel, requiere un esfuerzo mayor para dominarlo, pero una vez que se domina, las posibilidades para realizar cualquier análisis se extienden. Para ello, los lenguajes de programación más comunes son R y Python. 
 
-Cometer errores es muy común. Apoyarse en documentación, foros y google es parte del flujo de trabajo.
+## 4. No tengas miedo a equivocarte
 
-[stackoverflow](https://stackoverflow.com/)
+Cometer errores es muy común, de hecho, es a través de la experimentación que podemos aprender qué funciona y qué no. A menudo, especialmente cuando se tiene poca experiencia en el análisis de datos, será muy frecuente no saber como realizar tareas específicas. Por esto, es importante apoyarse en documentación, foros y búsquedas en google, ya que, es parte del flujo de trabajo.
 
-# 5. Entiende y aplica distintos enfoques de inferencia
+## 5. Entiende y aplica distintos enfoques de inferencia
 
-[Stan](https://mc-stan.org/)
+Dominar distintos enfoques de inferencia te permite adquirir un entendimiento más profundo sobre por qué la estadística funciona de la manera que lo hace. Además de que permite aprender la correcta interpretación de los métodos de inferencia.
 
-# 6. Aprende a crear paqueterias
+## 6. Participa en los proyectos de código abierto
 
-[Advanced R](https://adv-r.hadley.nz/)\
-[Happy Git and GitHub for the useR](https://happygitwithr.com/)
+Gracias a la participación comunitaria de varias personas es que se han ido desarrollando las herramientas que nos hacen posible hacer el trabajo que requiere hacer un estadístico. Por lo que, es importante colaborar para que se siga facilitando la aplicación de análisis complejos.
 
-# 7. Carreras profesionales
+## 7. Piensa en q
 
-* Data engineer [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
-* Data analyst [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-* Data scientist [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+Como estadístico, existen distintos roles que se pueden adoptar, los cuales son principalmente: estadístico, investigador, analista de datos y científico de datos. Es importante que desde antes de egresar ya estes haciendo contactos, planeando en qué empresa harás tu servicio social, capacitándote especialmente para algún rol y buscando oportunidades laborales.
 
-# 8. Sé parte de la comunidad
+## 8. Sé parte de la comunidad
 
 Usa twitter para conectar con líderes en estadística y ciencia de datos.
 
