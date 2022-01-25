@@ -25,7 +25,7 @@ Dominar distintos enfoques de inferencia te permite adquirir un entendimiento m�
 
 Gracias a la participación comunitaria de varias personas es que se han ido desarrollando las herramientas que nos hacen posible hacer el trabajo que requiere hacer un estadístico. Por lo que, es importante colaborar para que se siga facilitando la aplicación de análisis complejos.
 
-## 7. Piensa en q
+## 7. Piensa en ir desarrollando tu carrera profesional
 
 Como estadístico, existen distintos roles que se pueden adoptar, los cuales son principalmente: estadístico, investigador, analista de datos y científico de datos. Es importante que desde antes de egresar ya estes haciendo contactos, planeando en qué empresa harás tu servicio social, capacitándote especialmente para algún rol y buscando oportunidades laborales.
 
