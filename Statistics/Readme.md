@@ -7,7 +7,7 @@ Además, puedes aprender leyendo libros, artículos y viendo tutoriales.
 
 ## 2. Familiarizate analizando bases de datos
 
-Siendo el análisis de datos una parte fundamental del trabajo de un estadístico, es importante aprender a usar las herramientas para poder analizar los datos. Para esto, sería muy útil aprender SQL, así como Python o R. Así como Excel, Access, Power BI o Tableau.
+Siendo el análisis de datos una parte fundamental del trabajo de un estadístico, es importante aprender a usar las herramientas para poder analizar los datos. Para esto, sería muy útil aprender SQL, así como Python o R. Así como también Excel, Access, Power BI o Tableau.
 
 ## 3. Domina al menos un lenguaje de programación
 
